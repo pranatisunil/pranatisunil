@@ -12,7 +12,7 @@
 
 🛠️ Skills: Python, Java, SQL, HTML, JavaScript, Git, Tableau<br/>
 
-🎨 I love creating — from UI designs to Pac-Man games, from guerrilla marketing plans to handmade crafts<br/>
+🎨 I love creating — from UI designs to Pac-Man games, from guerrilla marketing strategies to handmade crafts<br/>
 
 🌊 When not coding, you’ll find me surfing, skydiving, or trying aerial yoga!<br/>
 
